@@ -81,8 +81,8 @@ A modular, self-hosted platform built around one idea:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreyBegma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyBegma&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-eight-chi.vercel.app/api?username=AndreyBegma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats-eight-chi.vercel.app/api/top-langs/?username=AndreyBegma&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AndreyBegma&theme=tokyonight&hide_border=true)
 
