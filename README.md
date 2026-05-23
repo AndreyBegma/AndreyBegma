@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Andrey+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;React+Native+%7C+Expo+%7C+CLI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Andriy+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;React+Native+%7C+Expo+%7C+CLI" alt="Typing SVG" />
 
 <br/>
 
