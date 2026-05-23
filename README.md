@@ -61,14 +61,6 @@ Web · Mobile · CLI · AI-powered tools
 
 ## 🚧 Last Personal Projects
 
-**Luna** — a modular platform combining AI, music, and personal identity tools
-
-`luna-ai` · `luna-music` · `luna-persona` · `luna-atlas` · `luna-watch`
-
----
-
-## 🚧 Last Personal Projects
-
 ### Luna — Self-hosted AI Media Platform
 
 A modular, self-hosted platform built around one idea:  
