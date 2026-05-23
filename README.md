@@ -4,8 +4,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AndreyBegma&color=6C63FF&style=flat-square&label=Profile+Views)
-
 **Full-stack developer · Kharkiv, Ukraine**  
 Web · Mobile · CLI · AI-powered tools
 
