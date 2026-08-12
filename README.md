@@ -67,15 +67,6 @@ A modular, self-hosted platform built around one idea:
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AndreyBegma&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📬 Contact
 
