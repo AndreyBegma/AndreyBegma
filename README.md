@@ -46,24 +46,6 @@ Web · Mobile · CLI · AI-powered tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 🚧 Last Personal Projects
-
-### Luna — Self-hosted AI Media Platform
-
-A modular, self-hosted platform built around one idea:  
-**find, download, and recommend any movie or TV show — tailored to you.**
-
-- 📥 **Download anything** — AI picks the best source, pulls via qBittorrent, auto-retries stuck downloads
-- 🎬 **Local streaming** — HLS via ffmpeg, full movie & series library on any device
-- 🧠 **Deep user profiling** — vector embeddings of every swipe, behavioral patterns, taste model that evolves with you
-- 🔍 **Smart recommendations** — pgvector similarity search + MMR reranking for diversity
-- 🤖 **Multi-AI gateway** — OpenAI · Claude · Ollama, switchable per-request, AI chat with movie cards
-- 👤 **Autonomous Telegram persona** — three-tier memory, mood, daily plans, image generation
-- 📱 **React Native remote** — mobile control over your media from anywhere
-
-`NestJS` · `Next.js` · `React Native` · `PostgreSQL` · `pgvector` · `Redis` · `BullMQ` · `Docker`
 
 ---
 
