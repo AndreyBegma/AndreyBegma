@@ -11,6 +11,25 @@ Web · Mobile · CLI · AI-powered tools
 
 ---
 
+## 👋 About me
+
+Full-stack developer from Kharkiv, Ukraine. I build web, mobile and CLI products in TypeScript, and open-source infrastructure for running and observing AI coding agents (Claude Code, Codex).
+
+## 🚀 Live projects
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **AgentDock** | Self-hosted control plane for fleets of AI coding agents: status, pull requests, cost and schedules in one place | NestJS, Next.js, Prisma, PostgreSQL, BullMQ | [Website](https://agentdock.luna-realm.com) · [Source](https://github.com/AndreyBegma/AgentDock) |
+| **FilesDrop** | Anonymous file host: drop a file, get a link that lives up to 24 hours | NestJS, Next.js, Prisma, Cloudflare Tunnel | [Live demo](https://filesdrop.luna-realm.com/en) · [Source](https://github.com/AndreyBegma/FilesDrop) |
+
+## 📦 Open source
+
+- [**Code Sentinel**](https://github.com/AndreyBegma/claude-code-plugin) — Claude Code plugin with 25 skills: code audits, PR review and an orchestrator that turns GitHub issues into merged pull requests
+- [**glass-ui**](https://www.npmjs.com/package/@andrewbehma/glass-ui) — Liquid Glass design system for React 19 and Tailwind CSS 4, used by AgentDock and FilesDrop
+- [**smart-glitchtip-mcp**](https://www.npmjs.com/package/smart-glitchtip-mcp) — MCP server for GlitchTip, ~130 tools, read-only by default
+
+---
+
 ## 🛠 Tech Stack
 
 **Frontend**  
@@ -55,6 +74,7 @@ Web · Mobile · CLI · AI-powered tools
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abegma)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~andrewbehma)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abegma137@gmail.com)
 
 </div>
