@@ -21,6 +21,7 @@ Full-stack developer from Kharkiv, Ukraine. I build web, mobile and CLI products
 |---|---|---|---|
 | **AgentDock** | Self-hosted control plane for fleets of AI coding agents: status, pull requests, cost and schedules in one place | NestJS, Next.js, Prisma, PostgreSQL, BullMQ | [Website](https://agentdock.luna-realm.com) · [Source](https://github.com/AndreyBegma/AgentDock) |
 | **FilesDrop** | Anonymous file host: drop a file, get a link that lives up to 24 hours | NestJS, Next.js, Prisma, Cloudflare Tunnel | [Live demo](https://filesdrop.luna-realm.com/en) · [Source](https://github.com/AndreyBegma/FilesDrop) |
+| **glass-ui** | Liquid Glass design system for React: tokens, a glass material and 70+ components, with a live catalog to tweak and edit each one | React 19, Tailwind CSS 4, Motion, Radix, Next.js | [Live demo](https://glass.luna-realm.com) · [Source](https://github.com/AndreyBegma/glass-ui) · [npm](https://www.npmjs.com/package/@andrewbehma/glass-ui) |
 
 ## 📦 Open source
 
