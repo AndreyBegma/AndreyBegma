@@ -3,8 +3,6 @@
 **Full-stack developer · Kharkiv, Ukraine**  
 Web · Mobile · CLI · AI agent tooling
 
-[![Discord](https://img.shields.io/badge/Discord-join%20the%20community-5865F2?logo=discord&logoColor=white)](https://discord.gg/mkQARkBs4C)
-
 ## 👋 About me
 
 I build web, mobile and CLI products in TypeScript, and open-source infrastructure for running and observing AI coding agents (Claude Code, Codex).
