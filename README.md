@@ -1,81 +1,33 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Andriy+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;React+Native+%7C+Expo+%7C+CLI" alt="Typing SVG" />
-
-<br/>
+# Andriy Begma
 
 **Full-stack developer · Kharkiv, Ukraine**  
-Web · Mobile · CLI · AI-powered tools
-
-</div>
-
----
+Web · Mobile · CLI · AI agent tooling
 
 ## 👋 About me
 
-Full-stack developer from Kharkiv, Ukraine. I build web, mobile and CLI products in TypeScript, and open-source infrastructure for running and observing AI coding agents (Claude Code, Codex).
+I build web, mobile and CLI products in TypeScript, and open-source infrastructure for running and observing AI coding agents (Claude Code, Codex).
 
 ## 🚀 Live projects
 
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| **AgentDock** | Self-hosted control plane for fleets of AI coding agents: status, pull requests, cost and schedules in one place | NestJS, Next.js, Prisma, PostgreSQL, BullMQ | [Website](https://agentdock.luna-realm.com) · [Source](https://github.com/AndreyBegma/AgentDock) |
-| **FilesDrop** | Anonymous file host: drop a file, get a link that lives up to 24 hours | NestJS, Next.js, Prisma, Cloudflare Tunnel | [Live demo](https://filesdrop.luna-realm.com/en) · [Source](https://github.com/AndreyBegma/FilesDrop) |
-| **glass-ui** | Liquid Glass design system for React: tokens, a glass material and 70+ components, with a live catalog to tweak and edit each one | React 19, Tailwind CSS 4, Motion, Radix, Next.js | [Live demo](https://glass.luna-realm.com) · [Source](https://github.com/AndreyBegma/glass-ui) · [npm](https://www.npmjs.com/package/@andrewbehma/glass-ui) |
+| Project | What it is | Links |
+|---|---|---|
+| **AgentDock** | Self-hosted control plane for fleets of AI coding agents: status, pull requests, cost and schedules in one place | [Website](https://agentdock.luna-realm.com) · [Source](https://github.com/AndreyBegma/AgentDock) |
+| **glass-ui** | Liquid Glass design system for React 19 and Tailwind CSS 4: tokens, a glass material and 70+ components with a live catalog; powers AgentDock and FilesDrop | [Live demo](https://glass.luna-realm.com) · [Source](https://github.com/AndreyBegma/glass-ui) · [npm](https://www.npmjs.com/package/@andrewbehma/glass-ui) |
+| **FilesDrop** | Anonymous file host: drop a file, get a link that lives up to 24 hours | [Live demo](https://filesdrop.luna-realm.com/en) · [Source](https://github.com/AndreyBegma/FilesDrop) |
+
+Monorepos on Bun + Turborepo, NestJS + Prisma + PostgreSQL behind Next.js, Woodpecker CI; AgentDock is documented in 18 ADRs and 23 specs.
 
 ## 📦 Open source
 
-- [**Code Sentinel**](https://github.com/AndreyBegma/claude-code-plugin) — Claude Code plugin with 25 skills: code audits, PR review and an orchestrator that turns GitHub issues into merged pull requests
-- [**glass-ui**](https://www.npmjs.com/package/@andrewbehma/glass-ui) — Liquid Glass design system for React 19 and Tailwind CSS 4, used by AgentDock and FilesDrop
-- [**smart-glitchtip-mcp**](https://www.npmjs.com/package/smart-glitchtip-mcp) — MCP server for GlitchTip, ~130 tools, read-only by default
-
----
+- **Code Sentinel** — Claude Code plugin with 25 skills: code audits, PR review and an orchestrator that turns GitHub issues into merged pull requests · [Source](https://github.com/AndreyBegma/claude-code-plugin)
+- **smart-glitchtip-mcp** — MCP server for GlitchTip, ~130 tools, read-only by default · [npm](https://www.npmjs.com/package/smart-glitchtip-mcp) · [Source](https://github.com/AndreyBegma/smart-glitchtip-mcp)
 
 ## 🛠 Tech Stack
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-**Backend & Mobile**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**AI / LLM**  
-![Claude](https://img.shields.io/badge/Claude_API-6C63FF?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Woodpecker CI](https://img.shields.io/badge/Woodpecker_CI-4CAF50?style=for-the-badge&logo=woodpecker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
----
-
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Styled Components, SASS  
+**Backend & Mobile:** Node.js, NestJS, React Native, Expo, PostgreSQL, MongoDB, Redis, Prisma  
+**AI & DevOps:** Claude API, MCP, Docker, nginx, GitHub Actions, Woodpecker CI
 
 ## 📬 Contact
 
-<div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abegma)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~andrewbehma)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abegma137@gmail.com)
-
-</div>
+[Telegram](https://t.me/abegma) · [npm](https://www.npmjs.com/~andrewbehma)
