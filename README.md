@@ -30,4 +30,4 @@ Monorepos on Bun + Turborepo, NestJS + Prisma + PostgreSQL behind Next.js, Woodp
 
 ## 📬 Contact
 
-[Discord](https://discord.gg/mkQARkBs4C) · [Telegram](https://t.me/abegma) · [npm](https://www.npmjs.com/~andrewbehma)
+[Telegram](https://t.me/abegma) · [npm](https://www.npmjs.com/~andrewbehma)
